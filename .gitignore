@@ -1,0 +1,4 @@
+*.pem
+config.json
+ring.json
+static/

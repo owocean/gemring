@@ -1,0 +1,24 @@
+{
+  "name": "gemring",
+  "version": "0.0.0",
+  "description": "A webring master for gemini",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owocean/gemring.git"
+  },
+  "keywords": [
+    "gemini",
+    "webring"
+  ],
+  "author": "owocean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owocean/gemring/issues"
+  },
+  "homepage": "https://github.com/owocean/gemring#readme"
+}

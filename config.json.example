@@ -1,0 +1,6 @@
+{
+    "staticFilesDir": "static/",
+    "tlsKey": "key.pem",
+    "tlsCert": "cert.pem",
+    "listenPort": 1965
+}
